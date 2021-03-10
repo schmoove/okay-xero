@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Okay Xero",
-  "description": "A Chrome extension to speed up reconciling bank accounts in Xero. Select your contact and account, hit Ctrl/Cmd-Enter, and you're done. Xero literally could have added this in an hour, but four years later, here we are.",
+  "description": "The missing shortcut key for reconciling bank accounts in Xero. Select your contact and account, hit Ctrl/Cmd-Enter. Done.",
   "author": "Ryan Marshall <ryan@schmoove.co.nz>",
   "version": "0.1",
   "content_scripts": [
