@@ -2,6 +2,8 @@
 
 A Chrome extension to speed up reconciling bank accounts in Xero.
 
+https://chrome.google.com/webstore/detail/okay-xero/kgnhcajopcajjgiclnknhkbopcjmhljo
+
 Tab through fields in Xero's bank reconciliation page, select your contact and account, hit Ctrl/Cmd-Enter, and you're done.
 
 Xero – please steal this feature.
