@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "OK Xero",
+  "version": "0.1",
+  "content_scripts": [
+      {
+        "matches": [
+          "https://go.xero.com/BankRec/BankRec.aspx*"
+        ],
+        "js": ["jquery.js", "content.js"]
+      }
+    ]
+}
