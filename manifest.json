@@ -2,14 +2,12 @@
   "manifest_version": 3,
   "name": "Okay Xero",
   "description": "The missing shortcut key for reconciling bank accounts in Xero. Select your contact and account, hit Ctrl/Cmd-Enter. Done.",
-  "author": "Ryan Marshall <ryan@schmoove.co.nz>",
-  "version": "0.3",
+  "author": "Ryan Marshall <ryan@syngency.com>",
+  "version": "0.4",
   "content_scripts": [
-      {
-        "matches": [
-          "https://go.xero.com/BankRec/BankRec.aspx*"
-        ],
-        "js": ["content.js"]
-      }
-    ]
+    {
+      "matches": ["https://go.xero.com/BankRec/BankRec.aspx*"],
+      "js": ["content.js"]
+    }
+  ]
 }
